@@ -1,7 +1,7 @@
 package org.example;
 
 public class SistSonidoDecorator extends CarroDecorator {
-    public SistSonidoDecorator(Carro carro) {
+    public SistSonidoDecorator(CarroComponent carro) {
         super(carro);
     }
 
